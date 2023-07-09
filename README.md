@@ -1,6 +1,8 @@
 # VerbAtlas
 API for[VerbAtlas](http://verbatlas.org)
+
 University project for the course "Metodologie di programmazione"
+
 [University "la Sapienza"](https://www.uniroma1.it/it/) - 1st year, 2nd semester of Banchelor's degree - Computer Science
 
 VerbAtlas è un progetto di intelligenza artificiale sviluppato all’interno
